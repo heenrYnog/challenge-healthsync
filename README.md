@@ -30,9 +30,6 @@ Este aplicativo foi desenvolvido utilizando as seguintes tecnologias:
 
 - **Banco de Dados**: [PostgreSQL, Docker]
 
-- **Frontend**: [Inserir as tecnologias frontend, por exemplo, HTML, CSS, JavaScript, React]
-
-
 ### Instalação
 
 #### Pré-requisitos
